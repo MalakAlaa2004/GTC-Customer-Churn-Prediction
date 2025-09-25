@@ -78,3 +78,7 @@ The application requires the following packages (specified in `requirements.txt`
 - ✅ Input validation and error handling implemented
 
 This phase completes the end-to-end machine learning pipeline from data preparation to production deployment, making the churn prediction capability accessible to the entire organization.
+
+## 👥 Authors
+- **Mazen Mohammed**
+- **Faris Emad**
