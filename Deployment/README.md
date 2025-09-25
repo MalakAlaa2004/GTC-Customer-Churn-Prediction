@@ -58,14 +58,13 @@ Phase 4 focuses on deploying the trained customer churn prediction model into a 
 ## 📦 Dependencies
 The application requires the following packages (specified in `requirements.txt`):
 
-- `streamlit==1.28.0`: Web application framework
-- `pandas==2.0.3`: Data manipulation
-- `joblib==1.3.2`: Model serialization
-- `plotly==5.15.0`: Interactive visualizations
-- `numpy==1.24.3`: Numerical computations
-- `scikit-learn==1.3.0`: Machine learning utilities
+- `streamlit>=1.28.0`: Web application framework
+- `pandas>=2.0.0`: Data manipulation
+- `joblib>=1.3.0`: Model serialization
+- `plotly>=5.0.0`: Interactive visualizations
+- `scikit-learn>=1.4.0`: Machine learning utilities
 
-### **Accessing Cloud Deployment:**
+## **Accessing Cloud Deployment:**
 1. Visit: https://gtc-customer-churn-prediction-mccg8cqph2e5df95dkx6gb.streamlit.app/
 2. Input customer details in the sidebar
 3. Click "Analyze Customer Churn Risk" for prediction
