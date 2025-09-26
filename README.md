@@ -16,3 +16,6 @@ We develop a churn-prediction model that classifies customers into “likely to 
 ***Model Training & Validation*** – Train classification models (Logistic Regression, Random Forest, Gradient Boosting), handle class imbalance, and evaluate using ROC-AUC, precision, recall, and F1-score. wich was done by Malak Alaa 
 
 ***Deployment*** – Deploy the best-performing model via a simple frontend for real-time churn predictions. wich was done by Mazen Mohamed and Faris Emad 
+# Project demo video 
+
+drive link :https://drive.google.com/file/d/19GAVNx9Q9-WE0jZIFrqAlCzY4vHq0HqZ/view?usp=sharing
