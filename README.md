@@ -9,7 +9,7 @@ We develop a churn-prediction model that classifies customers into “likely to 
 
 # Workflow
 
-***Data Preparation*** – Collect and clean churn dataset, handle missing values, and encode categorical features. wich was done by Tuqa AboGerz and Mohamed yassin 
+***Data Preparation*** – Collect and clean churn dataset, handle missing values, and encode categorical features. wich was done by Tuqa AboGerz and Mohamed Abduljalil
 
 ***EDA & Feature Engineering*** – Explore churn patterns (tenure, contracts, billing) and create predictive features. wich was done by Fares Waleed and Omar Garawani
 
